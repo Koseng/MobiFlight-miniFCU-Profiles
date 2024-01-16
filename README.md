@@ -1,6 +1,6 @@
 # MobiFlight-miniFCU-Profiles
 
-## Profile Link List
+## List of profile links
 
 ### MSFS2020
 - miniFCU | FlyByWire | MF profile
