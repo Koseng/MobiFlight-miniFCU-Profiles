@@ -3,7 +3,7 @@
 ## MobiFlight Download
 https://www.mobiflight.com/en/download.html
 
-## List of profile links
+## Profile list
 
 ### MSFS2020
 - miniFCU | FlyByWire | MobiFlight profile
