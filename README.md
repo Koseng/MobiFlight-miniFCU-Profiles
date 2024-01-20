@@ -22,6 +22,9 @@ https://www.mobiflight.com/en/download.html
 - [miniFCU | Laminar A330 | MobiFlight Profile](https://github.com/eric-schalk/MobiFlightProfiles/releases)
 - [miniFCU | Flight Factor A350 | MobiFlight Profile](https://discord.com/channels/608690978081210392/1190043120914665542/1193208598298382417)
 
+### P3D
+-[miniFCU | FSLabs A32x | MobiFlight Profile](https://github.com/Koseng/MobiFlight-miniFCU-Profiles/releases/latest)
+
 ## Update to official MobiFlight firmware
 ![Update firmware](doc/UpdateFirmware.gif)
 
