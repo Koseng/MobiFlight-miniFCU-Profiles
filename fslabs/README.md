@@ -1,6 +1,6 @@
 # miniFCU | FSLabs A32x | MobiFlight profile
 
-[Download project](https://github.com/Koseng/MobiFlight-miniFCU-Profiles/archive/master.zip)
+[Download project](https://github.com/Koseng/MobiFlight-miniFCU-Profiles/archive/refs/tags/v0.1.zip)
 
 - Currently FSUIPC registered version is needed.
 - `FSLabsA32x.lua` must be copied to FSUIPC install directory
