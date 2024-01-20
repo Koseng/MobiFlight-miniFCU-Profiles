@@ -1,4 +1,4 @@
-# FSLabs A32x
+# miniFCU | FSLabs A32x | MobiFlight profile
 
 [Download project](https://github.com/Koseng/MobiFlight-miniFCU-Profiles/archive/master.zip)
 
