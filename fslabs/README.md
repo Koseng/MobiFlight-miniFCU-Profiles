@@ -7,3 +7,6 @@
 - `FSLABS_A32X_NO_DISPLAY.mcc` must be loaded in MobiFlight
 - Current versions supports all buttons and leds, but no display
 - FSLabs does not provide display information, but with defined starting values maybe something can be achieved.
+
+## Some instructions
+[Instructions](https://github.com/Koseng/MobiFlight-miniFCU-Profiles#update-to-official-mobiflight-firmware)
