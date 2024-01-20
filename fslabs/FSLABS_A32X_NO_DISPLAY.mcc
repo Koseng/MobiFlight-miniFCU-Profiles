@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MobiflightConnector>
+  <outputs>
+    <config guid="37ad9a02-5896-4f41-9b9a-e81b8d8e3741">
+      <active>true</active>
+      <description>INIT</description>
+      <settings msdata:InstanceType="MobiFlight.OutputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <source type="Variable" varType="number" varName="IsInitDoneVar" varExpression="$" />
+        <test type="Float" value="1" />
+        <modifiers />
+        <display type="InputAction" serial="-" trigger="normal">
+          <analog>
+            <onChange type="LuaMacroInputAction" macroName="Lua FSLabsA32x" value="1" />
+          </analog>
+        </display>
+        <preconditions>
+          <precondition type="variable" active="true" ref="IsInitDoneVar" operand="=" value="0" logic="and" />
+        </preconditions>
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="3d514f4f-b21d-450b-ab65-254260f48217">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - LOC</description>
+      <settings msdata:InstanceType="MobiFlight.OutputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <source type="FSUIPC" offset="0xA102" offsetType="Integer" size="1" mask="0x00FF" bcdMode="False" />
+        <test type="Float" value="1" />
+        <modifiers />
+        <display type="Output" serial="miniCOCKPIT miniFCU/ SN-745-7A6" trigger="normal" pin="LOC" pinBrightness="255" />
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="eed0e33b-d274-4b02-bd92-2aa53d9e67b6">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - AP1</description>
+      <settings msdata:InstanceType="MobiFlight.OutputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <source type="FSUIPC" offset="0xA103" offsetType="Integer" size="1" mask="0x00FF" bcdMode="False" />
+        <test type="Float" value="1" />
+        <modifiers />
+        <display type="Output" serial="miniCOCKPIT miniFCU/ SN-745-7A6" trigger="normal" pin="AP1" pinBrightness="255" />
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="08eac642-990b-4e2b-9d86-1e065105514c">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - AP2</description>
+      <settings msdata:InstanceType="MobiFlight.OutputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <source type="FSUIPC" offset="0xA104" offsetType="Integer" size="1" mask="0x00FF" bcdMode="False" />
+        <test type="Float" value="1" />
+        <modifiers />
+        <display type="Output" serial="miniCOCKPIT miniFCU/ SN-745-7A6" trigger="normal" pin="AP2" pinBrightness="255" />
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="dee51aff-42dd-411e-9a7d-2bb6f6ed7815">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - A/THR</description>
+      <settings msdata:InstanceType="MobiFlight.OutputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <source type="FSUIPC" offset="0xA105" offsetType="Integer" size="1" mask="0x00FF" bcdMode="False" />
+        <test type="Float" value="1" />
+        <modifiers />
+        <display type="Output" serial="miniCOCKPIT miniFCU/ SN-745-7A6" trigger="normal" pin="ATHR" pinBrightness="255" />
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="04b4f47e-95b8-4c42-822c-952123b4106c">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - EXPED</description>
+      <settings msdata:InstanceType="MobiFlight.OutputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <source type="FSUIPC" offset="0xA106" offsetType="Integer" size="1" mask="0x00FF" bcdMode="False" />
+        <test type="Float" value="1" />
+        <modifiers />
+        <display type="Output" serial="miniCOCKPIT miniFCU/ SN-745-7A6" trigger="normal" pin="EXPED" pinBrightness="255" />
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="9aa67982-f52e-44e3-a67e-538af5bc16f1">
+      <active>false</active>
+      <description>FSLabs A320 - EFIS - LS DIM</description>
+      <settings msdata:InstanceType="MobiFlight.OutputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <source type="FSUIPC" offset="0xA101" offsetType="Integer" size="1" mask="0x00FF" bcdMode="False" />
+        <test type="Float" value="1" />
+        <modifiers />
+        <display type="-" serial="-" trigger="normal" pin="" pinBrightness="255" />
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="92020dfc-336d-48eb-a186-892dafb7ee27">
+      <active>false</active>
+      <description>FSLabs A320 - EFIS - LS BRT</description>
+      <settings msdata:InstanceType="MobiFlight.OutputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <source type="FSUIPC" offset="0xA100" offsetType="Integer" size="1" mask="0x00FF" bcdMode="False" />
+        <test type="Float" value="1" />
+        <modifiers>
+          <transformation active="True" expression="$+#" />
+        </modifiers>
+        <display type="Output" serial="miniCOCKPIT miniFCU/ SN-745-7A6" trigger="normal" pin="EXPED" pinBrightness="255" />
+        <preconditions />
+        <configrefs>
+          <configref active="True" ref="9aa67982-f52e-44e3-a67e-538af5bc16f1" placeholder="#" testvalue="1" />
+        </configrefs>
+      </settings>
+    </config>
+    <config guid="dd51b277-49ab-41c1-8873-a1201ca3253f">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - APPR</description>
+      <settings msdata:InstanceType="MobiFlight.OutputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <source type="FSUIPC" offset="0xA107" offsetType="Integer" size="1" mask="0x00FF" bcdMode="False" />
+        <test type="Float" value="1" />
+        <modifiers />
+        <display type="Output" serial="miniCOCKPIT miniFCU/ SN-745-7A6" trigger="normal" pin="APPR" pinBrightness="255" />
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="30fa1f4d-de82-4e6c-9713-ad432b1a8f07">
+      <active>true</active>
+      <description>INIT DONE</description>
+      <settings msdata:InstanceType="MobiFlight.OutputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <source type="Variable" varType="number" varName="IsInitDoneVar" varExpression="$" />
+        <test type="Float" value="1" />
+        <modifiers />
+        <display type="InputAction" serial="-" trigger="normal">
+          <analog>
+            <onChange type="VariableInputAction" varType="number" varName="IsInitDoneVar" varExpression="$+1" />
+          </analog>
+        </display>
+        <preconditions>
+          <precondition type="variable" active="true" ref="IsInitDoneVar" operand="=" value="0" logic="and" />
+        </preconditions>
+        <configrefs />
+      </settings>
+    </config>
+  </outputs>
+  <inputs>
+    <config guid="2130ff5e-50b2-4a32-bb70-ec7696148c84">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - SPD &lt;&gt; MACH</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" serial="miniCOCKPIT miniFCU/ SN-745-7A6" name="MACH Button" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="EventIdInputAction" eventId="66587" param="71178" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="81a35024-3eae-4ac7-a93c-3d051754cea7">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - SPD PUSH</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" serial="miniCOCKPIT miniFCU/ SN-745-7A6" name="SPD PUSH" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="EventIdInputAction" eventId="66587" param="71214" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="c33133eb-627a-4de8-8bcb-717a10eb53a4">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - SPD PULL</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" serial="miniCOCKPIT miniFCU/ SN-745-7A6" name="SPD PULL" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="EventIdInputAction" eventId="66587" param="71215" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="fe8f3f38-1525-4356-90f4-5c47e0ec3d8f">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - SPD ENCODER</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" serial="miniCOCKPIT miniFCU/ SN-745-7A6" name="SPD Encoder" type="Encoder" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <encoder>
+          <onLeft type="EventIdInputAction" eventId="66587" param="71227" />
+          <onLeftFast />
+          <onRight type="EventIdInputAction" eventId="66587" param="71226" />
+          <onRightFast />
+        </encoder>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="08007dc9-31ae-4388-b0af-28750bf2e903">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - HDG PULL</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" serial="miniCOCKPIT miniFCU/ SN-745-7A6" name="HDG PULL" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="EventIdInputAction" eventId="66587" param="71229" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="73407553-1e0f-4609-b4fa-f3690ba7cdbe">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - HDG ENCODER</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" serial="miniCOCKPIT miniFCU/ SN-745-7A6" name="HDG Encoder" type="Encoder" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <encoder>
+          <onLeft type="EventIdInputAction" eventId="66587" param="71234" />
+          <onLeftFast />
+          <onRight type="EventIdInputAction" eventId="66587" param="71233" />
+          <onRightFast />
+        </encoder>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="cacd3a64-ea93-485a-9635-5e1059117d79">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - LOC</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" serial="miniCOCKPIT miniFCU/ SN-745-7A6" name="LOC Button" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="EventIdInputAction" eventId="66587" param="71182" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="7a178f65-d577-4e3d-b22c-4e6b9534428f">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - HDG TRK &lt;&gt; VS FPA</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" serial="miniCOCKPIT miniFCU/ SN-745-7A6" name="TRK Button" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="EventIdInputAction" eventId="66587" param="71186" />
+          <onRelease type="MSFS2020CustomInputAction" command="(L:S_FCU_HDGVS_TRKFPA) ++ (&gt;L:S_FCU_HDGVS_TRKFPA)" presetId="9385fc71-e821-42ff-a298-303ea3095351" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="11bb8d3e-1fe8-436e-8874-8c48557db482">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - AP1</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" serial="miniCOCKPIT miniFCU/ SN-745-7A6" name="AP1 Button" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="EventIdInputAction" eventId="66587" param="71190" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="4e8ca36d-c19d-4dd0-b7ed-ca0026ff6b9d">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - AP2</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" serial="miniCOCKPIT miniFCU/ SN-745-7A6" name="AP2 Button" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="EventIdInputAction" eventId="66587" param="71194" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="d8659e23-9af3-4808-8456-7b9914d0b20a">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - HDG PUSH</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" serial="miniCOCKPIT miniFCU/ SN-745-7A6" name="HDG PUSH" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="EventIdInputAction" eventId="66587" param="71228" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="7dcfc95e-0817-4215-8186-a1222561f6a3">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - A/THR</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" serial="miniCOCKPIT miniFCU/ SN-745-7A6" name="ATHR Button" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="EventIdInputAction" eventId="66587" param="71198" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="d05b6d76-826b-453c-a912-3b1d5dc52e8e">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - ALTITUDE SCALE 100 &lt;&gt; 1000</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" serial="miniCOCKPIT miniFCU/ SN-745-7A6" name="ALTINC" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="EventIdInputAction" eventId="66587" param="71243" />
+          <onRelease type="EventIdInputAction" eventId="66587" param="71242" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="4c6b2c11-c792-4e7f-a69e-7c001494793d">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - ALTITUDE PULL</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" serial="miniCOCKPIT miniFCU/ SN-745-7A6" name="ALT PULL" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="EventIdInputAction" eventId="66587" param="71250" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="3cfe664b-0b28-4de7-a628-62b45d5464ec">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - ALTITUDE PUSH</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" serial="miniCOCKPIT miniFCU/ SN-745-7A6" name="ALT PUSH" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="EventIdInputAction" eventId="66587" param="71249" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="39bdae42-1373-4775-b627-deca24c22adc">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - ALTITUDE ENCODER</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" serial="miniCOCKPIT miniFCU/ SN-745-7A6" name="ALT Encoder" type="Encoder" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <encoder>
+          <onLeft type="EventIdInputAction" eventId="66587" param="71262" />
+          <onLeftFast />
+          <onRight type="EventIdInputAction" eventId="66587" param="71261" />
+          <onRightFast />
+        </encoder>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="e9159ea7-2147-413b-8c7a-9949f717f141">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - EXPED</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" serial="miniCOCKPIT miniFCU/ SN-745-7A6" name="EXPED Button" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="EventIdInputAction" eventId="66587" param="71202" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="a79c6883-b7ae-4a41-ae85-641d4faa4ab9">
+      <active>false</active>
+      <description>FSLabs A320 - EFIS - LS</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" serial="miniCOCKPIT miniFCU/ SN-745-7A6" name="EXPED Button" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="EventIdInputAction" eventId="66587" param="71039" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="164776ac-70e4-4b71-9733-878f7f007c38">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - METRIC ALT</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" serial="miniCOCKPIT miniFCU/ SN-745-7A6" name="METRIC Button" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="EventIdInputAction" eventId="66587" param="71206" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="980e67ae-bd7b-4f82-9ca8-d833122a0e45">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - VS PUSH</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" serial="miniCOCKPIT miniFCU/ SN-745-7A6" name="VS PUSH" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="EventIdInputAction" eventId="66587" param="71263" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="fed9c264-46d1-4319-a590-04fabec21997">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - VS PULL</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" serial="miniCOCKPIT miniFCU/ SN-745-7A6" name="VS PULL" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="EventIdInputAction" eventId="66587" param="71264" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="d19683a4-69a1-433d-afb1-7830a88488e3">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - VS ENCODER</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" serial="miniCOCKPIT miniFCU/ SN-745-7A6" name="VS Encoder" type="Encoder" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <encoder>
+          <onLeft type="EventIdInputAction" eventId="66587" param="71276" />
+          <onLeftFast />
+          <onRight type="EventIdInputAction" eventId="66587" param="71275" />
+          <onRightFast />
+        </encoder>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="c0e90bd3-c783-4c89-a221-38bfb8167e6b">
+      <active>true</active>
+      <description>FSLabs A320 - FCU - APPR</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.1.0.0, Culture=neutral, PublicKeyToken=null" serial="miniCOCKPIT miniFCU/ SN-745-7A6" name="APPR Button" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="EventIdInputAction" eventId="66587" param="71210" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+  </inputs>
+</MobiflightConnector>
