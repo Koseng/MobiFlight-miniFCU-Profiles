@@ -9,4 +9,4 @@
 - FSLabs does not provide display information, but with defined starting values maybe something can be achieved.
 
 ## Some instructions
-[Instructions](https://github.com/Koseng/MobiFlight-miniFCU-Profiles#update-to-official-mobiflight-firmware)
+[Instructions](https://github.com/Koseng/MobiFlight-miniFCU-Profiles#instructions)
