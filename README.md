@@ -25,15 +25,24 @@ https://www.mobiflight.com/en/download.html
 ### P3D
 - [miniFCU | FSLabs A32x | MobiFlight Profile](https://github.com/Koseng/MobiFlight-miniFCU-Profiles/releases/latest)
 
-## Update to official MobiFlight firmware
+## Instructions
+1) Close the miniFCU data link software. It is not needed and conflicts, if running at the same time.
+2) Download and install [MobiFlight](https://www.mobiflight.com/en/download.html)
+3) Install MobiFlight WASM module via menu Extras->MSFS2020->Install WASM module
+4) Perform miniFCU update to official MobiFlight firmware, see below. Do not forget to press "Upload" as well.
+5) Now you can load the plane profiles. Do not forget to assign your board serial to a new profile and save. See below.
+6) Link config to plane for autoload if desired. See below.
+7) Press play button in MobiFlight.
+
+### Update to official MobiFlight firmware
 ![Update firmware](doc/UpdateFirmware.gif)
 
-## Switch back to official standard firmware
+### Switch back to official standard firmware
 ![Reset firmware](doc/ResetFirmware.gif)
 
-## Assign board serial to new plane config
+### Assign board serial to new plane profile
 ![Assign board](doc/AssignBoard.gif)
 
-## Link config to plane name for autoload
+### Link config to plane for autoload
 ![Link config](doc/LinkConfig.gif)
 
