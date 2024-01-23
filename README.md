@@ -34,6 +34,8 @@ https://www.mobiflight.com/en/download.html
 6) Link config to plane for autoload if desired. See below.
 7) Press play button in MobiFlight.
 
+For community support, join the [miniFCU Community Discord](https://discord.gg/63ypEhYkft)
+
 ### Update to official MobiFlight firmware
 ![Update firmware](doc/UpdateFirmware.gif)
 
