@@ -26,7 +26,7 @@ https://www.mobiflight.com/en/download.html
 - [miniFCU | FSLabs A32x | MobiFlight Profile](https://github.com/Koseng/MobiFlight-miniFCU-Profiles/releases/latest)
 
 ## Instructions
-1) Close the miniFCU data link software. It is not needed and conflicts, if running at the same time.
+1) Close the miniFCU data link software. It is not needed and conflicts if run in parallel.
 2) Download and install [MobiFlight](https://www.mobiflight.com/en/download.html)
 3) Install MobiFlight WASM module via menu Extras->MSFS2020->Install WASM module
 4) Perform miniFCU update to official MobiFlight firmware, see below. Do not forget to press "Upload" as well.
