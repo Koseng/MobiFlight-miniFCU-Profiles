@@ -6,8 +6,8 @@ https://www.mobiflight.com/en/download.html
 ## Profile list
 
 ### MSFS2020
-- miniFCU | FlyByWire | MobiFlight profile
-  - In MobiFlight installation directory e.g.:
+- [miniFCU | FlyByWire | MobiFlight profile](https://github.com/MobiFlight/MobiFlight-Connector/blob/main/Community/miniCOCKPIT/profiles/msfs2020/FBW-a320.mcc)
+  - Also in MobiFlight installation directory e.g.:
   - C:\Users\\**YourAccount**\AppData\Local\MobiFlight\MobiFlight Connector\Community\miniCOCKPIT\profiles\msfs2020
 - miniFCU | Horizon Mod for LFVR A319, A320, A321 | MobiFlight profile - Use above FlyByWire profile.
 - [miniFCU | Fenix A320 | MobiFlight profile](https://flightsim.to/file/67139/fenix-a320-minicockpit-minifcu-mobiflight-profile-quartz-displays-full-installation)
