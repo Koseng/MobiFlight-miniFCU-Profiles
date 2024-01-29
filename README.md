@@ -16,7 +16,7 @@ https://www.mobiflight.com/en/download.html
 - [miniFCU | iniBuilds A300 | MobiFlight Profile](https://flightsim.to/file/66522/minifcu-inibuilds-a300-profile)
 - [miniFCU | PMDG B737NG | MobiFlight Profile](https://flightsim.to/file/66653/pmdg-b737ng-minicockpit-minifcu-mobiflight-profiles)
 - [miniFCU | Kuro/Horizon/WT B787-8, B787-9, B787-10 | MobiFlight Profile](https://flightsim.to/file/67371/wt-kuro-horizon-b787-minicockpit-minifcu-mobiflight-profiles)
-- [miniFCU | Flysimware Learjet 35A (Early Access) | MobiFlight Profile](https://flightsim.to/file/67951/flysimware-learjet-35a-minicockpit-minifcu-mobiflight-profile)
+- [miniFCU | Flysimware Learjet 35A | MobiFlight Profile](https://flightsim.to/file/67951/flysimware-learjet-35a-minicockpit-minifcu-mobiflight-profile)
 
 ### X-Plane
 - [miniFCU | Toliss A321 | MobiFlight Profile](https://github.com/eric-schalk/MobiFlightProfiles/releases)
