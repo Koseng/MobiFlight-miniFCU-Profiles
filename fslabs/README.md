@@ -1,6 +1,6 @@
 # miniFCU | FSLabs A32x | MobiFlight profile
 
-[Download project](https://github.com/Koseng/MobiFlight-miniFCU-Profiles/archive/refs/tags/v0.1.zip)
+[Download project](https://github.com/Koseng/MobiFlight-miniFCU-Profiles/releases/download/v0.2/miniFCU_FSLabs.zip)
 
 - Currently FSUIPC registered version is needed.
 - `FSLabsA32x.lua` must be copied to FSUIPC install directory
@@ -18,15 +18,15 @@
 #### Currently supported:
 - Altitude encoder should work well
 - Vertical speed encoder works ok
-- Speed and Heading work well when synced
+- Speed and heading work well when synced
 - Speed and heading sync is only possible on pull when at current speed or heading. No correct display with preselection possible.
 
 #### Not supported:
 - Mach display (planned)
 - TRK/FPA (FPA planned)
 - Dot for managed modes.
-- Speed and Heading preselection.
-- Speed and Heading sync via turn.
+- Speed and heading preselection.
+- Speed and heading sync via turn.
 
 ### Advices to sync HDG, SPD and ALT
 - ALT is synced on start to 100. If a resync needs to be performed, select 1000 mode and quickly turn to min or max value to sync.
