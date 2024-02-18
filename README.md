@@ -6,15 +6,17 @@ https://www.mobiflight.com/en/download.html
 ## Profile list
 
 ### MSFS2020
-- [miniFCU | FlyByWire | MobiFlight profile](https://github.com/MobiFlight/MobiFlight-Connector/blob/main/Community/miniCOCKPIT/profiles/msfs2020/FBW-a320.mcc)
+- [miniFCU | Default FlyByWire | MobiFlight profile](https://github.com/MobiFlight/MobiFlight-Connector/blob/main/Community/miniCOCKPIT/profiles/msfs2020/FBW-a320.mcc)
   - Also in MobiFlight installation directory e.g.:
   - C:\Users\\**YourAccount**\AppData\Local\MobiFlight\MobiFlight Connector\Community\miniCOCKPIT\profiles\msfs2020
-- miniFCU | Horizon Mod for LFVR A319, A320, A321 | MobiFlight profile - Use above FlyByWire profile.
+- [miniFCU | Sushiat FlyByWire | MobiFlight profile](https://flightsim.to/file/69451/a32nx-minicockpit-minifcu-mobiflight-profile)
+- miniFCU | Horizon Mod for LFVR A319, A320, A321 | MobiFlight profile - Use above FlyByWire profiles. Sushiat FlyByWire is recommended.
 - [miniFCU | Fenix A320 | MobiFlight profile](https://flightsim.to/file/67139/fenix-a320-minicockpit-minifcu-mobiflight-profile-quartz-displays-full-installation)
 - [miniFCU | Generic AP (ASOBO planes) | MobiFlight profile](https://flightsim.to/file/67143/generic-ap-asobo-planes-minicockpit-minifcu-mobiflight-profile-full-installation)
    - Works with Blacksquare TBM850, PA28 Arrow IV
 - [miniFCU | iniBuilds A300 | MobiFlight Profile](https://flightsim.to/file/66522/minifcu-inibuilds-a300-profile)
 - [miniFCU | iniBuilds A310 | MobiFlight Profile](https://flightsim.to/file/69432/minifcu-inibuilds-a310-profile)
+- [miniFCU | Sushiat iniBuilds A300/A310 | MobiFlight Profile](https://flightsim.to/file/69438/inibuilds-a300-a310-minicockpit-minifcu-mobiflight-profile)
 - [miniFCU | PMDG B737NG | MobiFlight Profile](https://flightsim.to/file/66653/pmdg-b737ng-minicockpit-minifcu-mobiflight-profiles)
 - [miniFCU | Kuro/Horizon/WT B787-8, B787-9, B787-10 | MobiFlight Profile](https://flightsim.to/file/67371/wt-kuro-horizon-b787-minicockpit-minifcu-mobiflight-profiles)
 - [miniFCU | Flysimware Learjet 35A | MobiFlight Profile](https://flightsim.to/file/67951/flysimware-learjet-35a-minicockpit-minifcu-mobiflight-profile)
