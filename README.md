@@ -14,6 +14,7 @@ https://www.mobiflight.com/en/download.html
 - [miniFCU | Generic AP (ASOBO planes) | MobiFlight profile](https://flightsim.to/file/67143/generic-ap-asobo-planes-minicockpit-minifcu-mobiflight-profile-full-installation)
    - Works with Blacksquare TBM850, PA28 Arrow IV
 - [miniFCU | iniBuilds A300 | MobiFlight Profile](https://flightsim.to/file/66522/minifcu-inibuilds-a300-profile)
+- [miniFCU | iniBuilds A310 | MobiFlight Profile](https://flightsim.to/file/69432/minifcu-inibuilds-a310-profile)
 - [miniFCU | PMDG B737NG | MobiFlight Profile](https://flightsim.to/file/66653/pmdg-b737ng-minicockpit-minifcu-mobiflight-profiles)
 - [miniFCU | Kuro/Horizon/WT B787-8, B787-9, B787-10 | MobiFlight Profile](https://flightsim.to/file/67371/wt-kuro-horizon-b787-minicockpit-minifcu-mobiflight-profiles)
 - [miniFCU | Flysimware Learjet 35A | MobiFlight Profile](https://flightsim.to/file/67951/flysimware-learjet-35a-minicockpit-minifcu-mobiflight-profile)
