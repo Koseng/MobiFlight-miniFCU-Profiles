@@ -18,6 +18,9 @@ https://www.mobiflight.com/en/download.html
 - [miniFCU | PMDG B737NG | MobiFlight Profile](https://flightsim.to/file/66653/pmdg-b737ng-minicockpit-minifcu-mobiflight-profiles)
 - [miniFCU | Kuro/Horizon/WT B787-8, B787-9, B787-10 | MobiFlight Profile](https://flightsim.to/file/67371/wt-kuro-horizon-b787-minicockpit-minifcu-mobiflight-profiles)
 - [miniFCU | Flysimware Learjet 35A | MobiFlight Profile](https://flightsim.to/file/67951/flysimware-learjet-35a-minicockpit-minifcu-mobiflight-profile)
+- [miniFCU | Asobo ATR 42/72-600 | MobiFlight Profile](https://flightsim.to/file/69229/asobo-atr-600-minicockpit-minifcu-mobiflight-profile)
+- [miniFCU | Aerosoft CRJ 550/700/900/1000 | MobiFlight Profile](https://flightsim.to/file/69389/aerosoft-crj-550-700-900-1000-minicockpit-minifcu-mobiflight-profile)
+- [miniFCU | Fly the MADDOG X | MobiFlight Profile](https://flightsim.to/file/68958/fly-the-maddog-x-minicockpit-minifcu-mobiflight-profile)
 
 ### X-Plane
 - [miniFCU | Toliss A321 | MobiFlight Profile](https://github.com/eric-schalk/MobiFlightProfiles/releases)
