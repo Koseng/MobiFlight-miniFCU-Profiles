@@ -10,7 +10,7 @@ https://www.mobiflight.com/en/download.html
   - Also in MobiFlight installation directory e.g.:
   - C:\Users\\**YourAccount**\AppData\Local\MobiFlight\MobiFlight Connector\Community\miniCOCKPIT\profiles\msfs2020
 - [miniFCU | Sushiat FlyByWire | MobiFlight profile](https://flightsim.to/file/69451/a32nx-minicockpit-minifcu-mobiflight-profile)
-- miniFCU | Horizon Mod for LFVR A319, A320, A321 | MobiFlight profile - Use above FlyByWire profiles. Sushiat FlyByWire is recommended.
+- miniFCU | Horizon Mod for LFVR A319, A320, A321 | MobiFlight profile | -> Use above FlyByWire profiles. Sushiat FlyByWire is recommended.
 - [miniFCU | Fenix A320 | MobiFlight profile](https://flightsim.to/file/67139/fenix-a320-minicockpit-minifcu-mobiflight-profile-quartz-displays-full-installation)
 - [miniFCU | Generic AP (ASOBO planes) | MobiFlight profile](https://flightsim.to/file/67143/generic-ap-asobo-planes-minicockpit-minifcu-mobiflight-profile-full-installation)
    - Works with Blacksquare TBM850, PA28 Arrow IV
@@ -23,6 +23,7 @@ https://www.mobiflight.com/en/download.html
 - [miniFCU | Asobo ATR 42/72-600 | MobiFlight Profile](https://flightsim.to/file/69229/asobo-atr-600-minicockpit-minifcu-mobiflight-profile)
 - [miniFCU | Aerosoft CRJ 550/700/900/1000 | MobiFlight Profile](https://flightsim.to/file/69389/aerosoft-crj-550-700-900-1000-minicockpit-minifcu-mobiflight-profile)
 - [miniFCU | Fly the MADDOG X | MobiFlight Profile](https://flightsim.to/file/68958/fly-the-maddog-x-minicockpit-minifcu-mobiflight-profile)
+- [miniFCU | Citation CJ4 | MobiFlight Profile](https://flightsim.to/file/69550/citation-cj4-minicockpit-minifcu-mobiflight-profile)
 
 ### X-Plane
 - [miniFCU | Toliss A321 | MobiFlight Profile](https://github.com/eric-schalk/MobiFlightProfiles/releases)
