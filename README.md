@@ -24,6 +24,8 @@ https://www.mobiflight.com/en/download.html
 - [miniFCU | Aerosoft CRJ 550/700/900/1000 | MobiFlight Profile](https://flightsim.to/file/69389/aerosoft-crj-550-700-900-1000-minicockpit-minifcu-mobiflight-profile)
 - [miniFCU | Fly the MADDOG X | MobiFlight Profile](https://flightsim.to/file/68958/fly-the-maddog-x-minicockpit-minifcu-mobiflight-profile)
 - [miniFCU | Citation CJ4 | MobiFlight Profile](https://flightsim.to/file/69550/citation-cj4-minicockpit-minifcu-mobiflight-profile)
+- [miniFCU | BAE 146 Professional | MobiFlight Profile](https://flightsim.to/file/69597/justflight-bae-146-professional-minicockpit-minifcu-mobiflight-profile)
+- [miniFCU | Citation Longitude | MobiFlight Profile](https://flightsim.to/file/70759/citation-longitude-minicockpit-minifcu-mobiflight-profile)
 
 ### X-Plane
 - [miniFCU | Toliss A321 | MobiFlight Profile](https://github.com/eric-schalk/MobiFlightProfiles/releases)
