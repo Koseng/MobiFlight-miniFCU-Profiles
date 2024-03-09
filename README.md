@@ -26,6 +26,7 @@ https://www.mobiflight.com/en/download.html
 - [miniFCU | Citation CJ4 | MobiFlight Profile](https://flightsim.to/file/69550/citation-cj4-minicockpit-minifcu-mobiflight-profile)
 - [miniFCU | BAE 146 Professional | MobiFlight Profile](https://flightsim.to/file/69597/justflight-bae-146-professional-minicockpit-minifcu-mobiflight-profile)
 - [miniFCU | Citation Longitude | MobiFlight Profile](https://flightsim.to/file/70759/citation-longitude-minicockpit-minifcu-mobiflight-profile)
+- [miniFCU | Boeing 747-8i | MobiFlight Profile](https://flightsim.to/file/69658/boeing-747-8i-minicockpit-minifcu-mobiflight-profile)
 
 ### X-Plane
 - [miniFCU | Toliss A321 | MobiFlight Profile](https://github.com/eric-schalk/MobiFlightProfiles/releases)
