@@ -16,6 +16,7 @@ https://www.mobiflight.com/en/download.html
    - Works with Blacksquare TBM850, PA28 Arrow IV
 - [miniFCU | iniBuilds A300 | MobiFlight Profile](https://flightsim.to/file/66522/minifcu-inibuilds-a300-profile)
 - [miniFCU | iniBuilds A310 | MobiFlight Profile](https://flightsim.to/file/69432/minifcu-inibuilds-a310-profile)
+- [miniFCU | iniBuilds A320 | MobiFlight Profile](https://flightsim.to/file/72085/inibuilds-a320-minicockpit-minifcu-mobiflight-profile)
 - [miniFCU | Sushiat iniBuilds A300/A310 | MobiFlight Profile](https://flightsim.to/file/69438/inibuilds-a300-a310-minicockpit-minifcu-mobiflight-profile)
 - [miniFCU | PMDG B737NG | MobiFlight Profile](https://flightsim.to/file/66653/pmdg-b737ng-minicockpit-minifcu-mobiflight-profiles)
 - [miniFCU | Kuro/Horizon/WT B787-8, B787-9, B787-10 | MobiFlight Profile](https://flightsim.to/file/67371/wt-kuro-horizon-b787-minicockpit-minifcu-mobiflight-profiles)
@@ -27,6 +28,7 @@ https://www.mobiflight.com/en/download.html
 - [miniFCU | BAE 146 Professional | MobiFlight Profile](https://flightsim.to/file/69597/justflight-bae-146-professional-minicockpit-minifcu-mobiflight-profile)
 - [miniFCU | Citation Longitude | MobiFlight Profile](https://flightsim.to/file/70759/citation-longitude-minicockpit-minifcu-mobiflight-profile)
 - [miniFCU | Boeing 747-8i | MobiFlight Profile](https://flightsim.to/file/69658/boeing-747-8i-minicockpit-minifcu-mobiflight-profile)
+- [miniFCU | FlightFX Cirrus Vision Jet G2 | MobiFlight Profile](https://flightsim.to/file/71394/flightfx-cirrus-vision-jet-g2-minicockpit-minifcu-mobiflight-profile)
 
 ### X-Plane
 - [miniFCU | Toliss A321 | MobiFlight Profile](https://github.com/eric-schalk/MobiFlightProfiles/releases)
