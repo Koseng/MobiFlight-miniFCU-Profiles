@@ -29,6 +29,7 @@ https://www.mobiflight.com/en/download.html
 - [miniFCU | Citation Longitude | MobiFlight Profile](https://flightsim.to/file/70759/citation-longitude-minicockpit-minifcu-mobiflight-profile)
 - [miniFCU | Boeing 747-8i | MobiFlight Profile](https://flightsim.to/file/69658/boeing-747-8i-minicockpit-minifcu-mobiflight-profile)
 - [miniFCU | FlightFX Cirrus Vision Jet G2 | MobiFlight Profile](https://flightsim.to/file/71394/flightfx-cirrus-vision-jet-g2-minicockpit-minifcu-mobiflight-profile)
+- [miniFCU | Black Square Analog King Air | MobiFlight Profile](https://flightsim.to/file/72124/black-square-analog-king-air-minicockpit-minifcu-mobiflight-profile)
 
 ### X-Plane
 - [miniFCU | Toliss A321 | MobiFlight Profile](https://github.com/eric-schalk/MobiFlightProfiles/releases)
