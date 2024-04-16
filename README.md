@@ -36,6 +36,7 @@ https://www.mobiflight.com/en/download.html
 - [miniFCU | Toliss A321 | MobiFlight Profile x-plane.to](https://x-plane.to/file/1254/minifcu-mobiflight-profile-for-toliss-a321)
 - [miniFCU | Laminar A330 | MobiFlight Profile](https://github.com/eric-schalk/MobiFlightProfiles/releases)
 - [miniFCU | Flight Factor A350 | MobiFlight Profile](https://discord.com/channels/608690978081210392/1190043120914665542/1193208598298382417) You need to join the [MobiFlight Discord]( https://discord.gg/QjCQXSQs5K) to download.
+- [miniFCU | Zibo 737-800 | MobiFlight Profile](https://forums.x-plane.org/index.php?/files/file/90531-mobiflight-profile-for-the-minifcu-for-zibo-737-800/)
 
 ### P3D
 - [miniFCU | FSLabs A32x | MobiFlight Profile](https://github.com/Koseng/MobiFlight-miniFCU-Profiles/releases/latest)
