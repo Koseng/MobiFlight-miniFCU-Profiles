@@ -31,7 +31,8 @@ https://www.mobiflight.com/en/download.html
 - [miniFCU | FlightFX Cirrus Vision Jet G2 | MobiFlight Profile](https://flightsim.to/file/71394/flightfx-cirrus-vision-jet-g2-minicockpit-minifcu-mobiflight-profile)
 - [miniFCU | Black Square Analog King Air | MobiFlight Profile](https://flightsim.to/file/72124/black-square-analog-king-air-minicockpit-minifcu-mobiflight-profile)
 - [miniFCU | TFDi Design MD-11 | MobiFlight Profile](https://flightsim.to/file/75926/minifcu-tfdi-design-md-11-profile)
-- [**miniFCU | PMDG B777 | MobiFlight Profile**](https://flightsim.to/file/76940/pmdg-b777-minicockpit-minifcu-mobiflight-profiles)
+- [miniFCU | PMDG B777 | MobiFlight Profile](https://flightsim.to/file/76940/pmdg-b777-minicockpit-minifcu-mobiflight-profiles)
+- [miniFCU | Focker F28 | MobiFlight Profile](https://flightsim.to/file/81433/focker-f28-minicockpit-minifcu-mobiflight-profile)
 
 ### X-Plane
 - [miniFCU | Toliss A321 | MobiFlight Profile](https://github.com/eric-schalk/MobiFlightProfiles/releases)
